@@ -188,7 +188,7 @@ async function initialize() {
 * In index.html, import index.js and call initialize when the page loads. The web3 object is injected automatically by Metamask. 
 ```
   <script src = index.js></script>
-  <script>initialize(web3)</script?
+  <script>initialize(web3)</script>
 ```
 
 * Write a get and set function for index.js. These will get and set the value in the smart contract
