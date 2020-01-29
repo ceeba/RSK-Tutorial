@@ -189,7 +189,6 @@ async function initialize() {
 ```
   <script src = index.js></script>
   <script>initialize(web3)</script>
-  
 ```
 
 * Write a get and set function for index.js. These will get and set the value in the smart contract
